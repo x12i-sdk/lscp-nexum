@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/lscp-nexum",
+  "packageVersion": "0.4.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/lscp-nexum",
+  "usageRepository": "https://github.com/x12i-sdk/lscp-nexum",
+  "sourceRepository": "https://github.com/x12i-saas/thalux",
+  "sourceCommit": "0a178e7f1e5ed6dcb6669fbd4488b750dfa67d09",
+  "sourcePackageDirectory": "packages/lscp-nexum",
+  "example": {
+    "title": "Prepare tenant-scoped content and record inputs for Nexum",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:43:13.810877+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "f1c4ef5cfc2785e0082d166e11411e84fd725f8fd490a5fbc3e23450fb73f88b",
+    "manifestSha256": "72a327cc47a7db8838aaa9e8b2287a8ef1c49164ee0f0b22d5b34d4880f224b6"
+  },
+  "validationFiles": {
+    "src/index.mjs": "f1c4ef5cfc2785e0082d166e11411e84fd725f8fd490a5fbc3e23450fb73f88b"
+  }
+}
